@@ -18,8 +18,10 @@ E-commerce
 
 ### Skills and Tools:
 
-Surprise( Python scikit building and analyzing recommender systems that deal with explicit rating data), seaborn, collections 
+Surprise( Python scikit building and analyzing recommender systems that deal with explicit rating data), Seaborn, Collections 
 
-
+----
 
 #### <a href="https://drive.google.com/file/d/1ClBptsK3V5KgKXtK2GSRzFNAW7GnTPDW/view">Download Amazon's electronics products review dataset</a>
+
+----
