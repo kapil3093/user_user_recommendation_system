@@ -11,10 +11,10 @@ Amazon Reviews data repository has several datasets. For this case study, we are
 E-commerce
 
 ### Data Attribute Information:
-● userId : Every user identified with a unique id
-● productId : Every product identified with a unique id
-● Rating : Rating of the corresponding product by the corresponding user
-● timestamp : Time of the rating ( ignore this column for this exercise)
+1. userId : Every user identified with a unique id
+2. productId : Every product identified with a unique id
+3. Rating : Rating of the corresponding product by the corresponding user
+4. timestamp : Time of the rating ( ignore this column for this exercise)
 
 ### Skills and Tools:
 
