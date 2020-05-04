@@ -16,10 +16,8 @@ E-commerce
 3. Rating : Rating of the corresponding product by the corresponding user
 4. timestamp : Time of the rating ( ignore this column for this exercise)
 
-
-### <a href="https://drive.google.com/file/d/1ClBptsK3V5KgKXtK2GSRzFNAW7GnTPDW/view">Data set Link</a>
-
-
 ### Skills and Tools:
 
 Surprise( Python scikit building and analyzing recommender systems that deal with explicit rating data), seaborn, collections 
+
+#### <a href="https://drive.google.com/file/d/1ClBptsK3V5KgKXtK2GSRzFNAW7GnTPDW/view">Data set Link</a>
